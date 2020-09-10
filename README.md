@@ -1,8 +1,37 @@
-<h3> Olá, meu nome é Nathalia Pinheiro 👋</h3>
+<header>
+  <img src="./assets/browser.png" />
+  <h2 style="margin-left: 5%; margin-bottom: 0%">
+    Nathalia Pinheiro 
+    <img src="./assets/sparkles.svg" />
+  </h2>
+  <h4 style="color: #bcbcbc; margin: 0% 5% 5%">Desenvolvedora Web</h4>
+</header>
 
-Sou uma desenvolvedora web: gosto de fazer coisas bonitas e por isso trabalho com front-end!:sparkles:
+<hr style="margin: 0% 5%; height: 1px;"></hr>
 
-- 🌱 Atualmente estou lendo/aprendendo sobre código limpo, animações CSS e um pouco mais sobre React (não necessariamente nessa ordem)
-- 📫 Me encontre no <a href="https://www.linkedin.com/in/nathalia-pinheiro">Linkedin</a> e no [Twitter](https://twitter.com/nathi_pinheiro "@nathi_pinheiro")
-- 😄 Pronomes: ela | dela
+<main style="margin: 5%">
+  <h5 class="section-title">Sobre</h5>
 
+  <p>Sou formada no bacharelado de sistemas de informação e atuo como desenvolvedora web: gosto de fazer coisas bonitas e por isso trabalho com front-end! ✨</p>
+
+
+  <h5 class="section-title">Estudos</h5>
+
+  - 📖 Atualmente estou lendo/aprendendo sobre código limpo, animações CSS e um pouco mais sobre React (não necessariamente nessa ordem)
+
+
+  <h5 class="section-title">Me encontre</h5>
+
+  - 📫 Me encontre no <a href="https://www.linkedin.com/in/nathalia-pinheiro" style="color: #F0A6CA">Linkedin</a> e no <a href="https://twitter.com/nathi_pinheiro" style="color: #F0A6CA" title="@nathi_pinheiro">Twitter</a>
+
+  <h5 class="section-title"> Pronomes </h5>
+
+  - 😄 ela | dela
+
+</main>
+
+<style>
+  .section-title {
+    color: #efc3e6
+  }
+</style>
