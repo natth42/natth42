@@ -4,15 +4,15 @@
     Nathalia Pinheiro 
     <img src="https://github.com/natth42/natth42/blob/master/assets/sparkles.svg" />
   </h2>
-  <h4 style="color: #bcbcbc; margin: 0% 5% 5%">Desenvolvedora Web</h4>
+  <h3 style="color: #bcbcbc; margin: 0% 5% 5%">Desenvolvedora Web</h3>
 </header>
 
-<hr style="margin: 0% 5%; height: 1px;"></hr>
+---
 
 <main style="margin: 5%">
   <h5 style="color: #efc3e6">Sobre</h5>
 
-  <p>Sou formada no bacharelado de sistemas de informação e atuo como desenvolvedora web: gosto de fazer coisas bonitas e por isso trabalho com front-end! ✨</p>
+  <p>Sou formada em sistemas de informação e atuo como desenvolvedora web: gosto de fazer coisas bonitas e por isso trabalho com front-end! ✨</p>
 
 
   <h5 style="color: #efc3e6">Estudos</h5>
