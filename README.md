@@ -1,8 +1,8 @@
 <header>
-  <img src="./assets/browser.png" />
+  <img src="https://github.com/natth42/natth42/blob/master/assets/browser.png" />
   <h2 style="margin-left: 5%; margin-bottom: 0%">
     Nathalia Pinheiro 
-    <img src="./assets/sparkles.svg" />
+    <img src="https://github.com/natth42/natth42/blob/master/assets/sparkles.svg" />
   </h2>
   <h4 style="color: #bcbcbc; margin: 0% 5% 5%">Desenvolvedora Web</h4>
 </header>
