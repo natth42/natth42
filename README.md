@@ -1,31 +1,28 @@
 <header>
-  <img src="https://github.com/natth42/natth42/blob/master/assets/browser.png" />
-  <h2 style="margin-left: 5%; margin-bottom: 0%">
+  <h3 align="center">
     Nathalia Pinheiro 
     <img src="https://github.com/natth42/natth42/blob/master/assets/sparkles.svg" />
-  </h2>
-  <h3 style="color: #bcbcbc; margin: 0% 5% 5%">Desenvolvedora Web</h3>
+  </h3>
 </header>
 
----
+ ---
 
-<main style="margin: 5%">
-  <h5 style="color: #efc3e6">Sobre</h5>
+   Sobre
 
-  <p>Sou formada em sistemas de informação e atuo como desenvolvedora web: gosto de fazer coisas bonitas e por isso trabalho com front-end! ✨</p>
-
-
-  <h5 style="color: #efc3e6">Estudos</h5>
-
-  - 📖 Atualmente estou lendo/aprendendo sobre código limpo, animações CSS e um pouco mais sobre React (não necessariamente nessa ordem)
+   Sou formada em sistemas de informação e atuo como desenvolvedora web: gosto de fazer coisas bonitas e 
+    por isso trabalho com front-end! ✨
 
 
-  <h5 style="color: #efc3e6">Me encontre</h5>
+   Estudos
 
-  - 📫 Me encontre no <a href="https://www.linkedin.com/in/nathalia-pinheiro" style="color: #F0A6CA">Linkedin</a> e no <a href="https://twitter.com/nathi_pinheiro" style="color: #F0A6CA" title="@nathi_pinheiro">Twitter</a>
+   - 📖 Atualmente estou lendo/aprendendo sobre código limpo, animações CSS e um pouco mais sobre React 
+    (não necessariamente nessa ordem)
 
-  <h5 style="color: #efc3e6"> Pronomes </h5>
 
-  - 😄 ela | dela
+   Me encontre
 
-</main>
+   - 📫 Me encontre no <a href="https://www.linkedin.com/in/nathalia-pinheiro">Linkedin</a> e no <a href="https://twitter.com/nathi_pinheiro" title="@nathi_pinheiro">Twitter</a>
+
+   Pronomes
+
+   - 😄 ela | dela
