@@ -6,7 +6,7 @@
   </h2>
 </header>
 
-<span>
+<main>
   <img align="left" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" />
 
   <section>
@@ -28,6 +28,4 @@
     <h3>Pronomes</h3>
     <p> 😄 ela | dela</p>
   </section>
-
-  <img align="right" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" />
- </span>
+ </main>
