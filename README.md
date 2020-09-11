@@ -1,5 +1,5 @@
 <header>
-  <img src="https://github.com/natth42/natth42/blob/master/assets/browser.png" aria-hidden="true">
+  <img src="https://github.com/natth42/natth42/blob/master/assets/browser.png" alt="topo do navegador com barra de endereço escrito nathinha.dev/README.md">
   <h3 align="center">
     Nathalia Pinheiro 
     <img src="https://github.com/natth42/natth42/blob/master/assets/sparkles.svg" alt="três brilhinhos rosas piscando" />
