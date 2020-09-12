@@ -7,15 +7,21 @@
 </header>
 
 <main>
-  <img align="left" height="400px" alt="imagem em branco para adicionar espaço" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" />
+  <img align="left" height="600px" alt="imagem em branco para adicionar espaço" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" />
 
   <section>
     <h4>Sobre</h4>
-    <p> Sou formada em sistemas de informação e atuo como desenvolvedora web: gosto de fazer coisas bonitas e por isso <br/> trabalho com front-end! ✨</p>
+    <p> Sou uma desenvolvedora web: gosto de fazer coisas bonitas e por isso trabalho com front-end! ✨</p>
+  </section>
+  
+  <section>
+    <h4>Trabalho</h4>
+    <p> :purple_heart: Sou desenvolvedora front-end na easynvest </p>
   </section>
   
   <section>
     <h4>Estudos</h4>
+    <p> :school: Formada em Sistemas de Informação </p>
     <p> 📖 Atualmente estou lendo/aprendendo sobre código limpo, animações CSS e um pouco mais sobre React (não necessariamente nessa ordem)</p>
   </section>
   
