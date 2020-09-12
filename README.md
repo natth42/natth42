@@ -7,7 +7,7 @@
 </header>
 
 <main>
-  <img align="left" height="600px" alt="imagem em branco para adicionar espaço" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" />
+  <img align="left" height="520px" alt="imagem em branco para adicionar espaço" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" />
 
   <section>
     <h4>Sobre</h4>
