@@ -21,7 +21,7 @@
   
   <section>
     <h4>Estudos</h4>
-    <p> :school: Formada em Sistemas de Informação </p>
+    <p> :woman_student: Formada em Sistemas de Informação </p>
     <p> 📖 Atualmente estou lendo/aprendendo sobre código limpo, animações CSS e um pouco mais sobre React (não necessariamente nessa ordem)</p>
   </section>
   
