@@ -35,3 +35,15 @@
     <p> 😄 ela | dela</p>
   </section>
  </main>
+
+  <footer>
+    <p align="center">
+      <a href="https://twitter.com/@nathi_pinheiro" target="blank">
+        <img align="center" src="https://github.com/natth42/natth42/blob/master/assets/twitter.svg" alt="@nathi_pinheiro" height="30" width="30" />
+      </a>
+      <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathalia-pinheiro" target="blank">
+        <img align="center" src="https://github.com/natth42/natth42/blob/master/assets/linkedin.svg" alt="nathalia-pinheiro" height="30" width="30" />
+      </a>
+      <img align="center" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" height="30" width="30" />
+    </p>
+  </footer>
