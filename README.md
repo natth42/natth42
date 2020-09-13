@@ -42,7 +42,7 @@
         <img align="center" src="https://github.com/natth42/natth42/blob/master/assets/twitter.svg" alt="@nathi_pinheiro" height="30" width="30" />
       </a>
       <img align="center" alt="" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" height="10" width="10" />
-      <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathalia-pinheiro" target="blank">
+      <a href="https://www.linkedin.com/in/nathalia-pinheiro" target="blank">
         <img align="center" src="https://github.com/natth42/natth42/blob/master/assets/linkedin.svg" alt="nathalia-pinheiro" height="30" width="30" />
       </a>
       <img align="center" alt="" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" height="60" width="60" />
