@@ -34,7 +34,7 @@
     <h4>Pronomes</h4>
     <p> 😄 ela | dela</p>
   </section>
- </main>
+</main>
 
   <footer>
     <p align="center">
