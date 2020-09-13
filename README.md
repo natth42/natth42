@@ -7,7 +7,7 @@
 </header>
 
 <main>
-  <img align="left" height="520px" alt="imagem em branco para adicionar espaço" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" />
+  <img align="left" height="520px" alt="" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" />
 
   <section>
     <h4>Sobre</h4>
@@ -27,7 +27,7 @@
   
   <section>
     <h4>Me encontre</h4>
-    <p> 📫 Me encontre no <a href="https://www.linkedin.com/in/nathalia-pinheiro">Linkedin</a> e no <a href="https://twitter.com/nathi_pinheiro" title="@nathi_pinheiro">Twitter</a></p>
+    <p> 📫 Me encontre no email mesquita.natth@gmail.com</p>
   </section>
 
   <section>
@@ -41,9 +41,10 @@
       <a href="https://twitter.com/@nathi_pinheiro" target="blank">
         <img align="center" src="https://github.com/natth42/natth42/blob/master/assets/twitter.svg" alt="@nathi_pinheiro" height="30" width="30" />
       </a>
-      <img align="center" alt="imagem em branco para adicionar espaço" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" height="10" width="10" />
+      <img align="center" alt="" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" height="10" width="10" />
       <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathalia-pinheiro" target="blank">
         <img align="center" src="https://github.com/natth42/natth42/blob/master/assets/linkedin.svg" alt="nathalia-pinheiro" height="30" width="30" />
       </a>
+      <img align="center" alt="" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" height="60" width="60" />
     </p>
   </footer>
