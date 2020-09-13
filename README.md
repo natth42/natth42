@@ -41,7 +41,7 @@
       <a href="https://twitter.com/@nathi_pinheiro" target="blank">
         <img align="center" src="https://github.com/natth42/natth42/blob/master/assets/twitter.svg" alt="@nathi_pinheiro" height="30" width="30" />
       </a>
-      <img align="center" alt="imagem em branco para adicionar espaço" src="assets/emptySpace.png" height="10" width="10" />
+      <img align="center" alt="imagem em branco para adicionar espaço" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" height="10" width="10" />
       <a href="https://linkedin.com/in/https://www.linkedin.com/in/nathalia-pinheiro" target="blank">
         <img align="center" src="https://github.com/natth42/natth42/blob/master/assets/linkedin.svg" alt="nathalia-pinheiro" height="30" width="30" />
       </a>
