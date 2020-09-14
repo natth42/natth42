@@ -1,37 +1,37 @@
 <header>
   <img src="https://github.com/natth42/natth42/blob/master/assets/browser.png" alt="topo do navegador com barra de endereço escrito nathinha.dev/README.md">
-  <h3 align="center">
+  <h1 align="center">
     Nathalia Pinheiro 
-    <img src="https://github.com/natth42/natth42/blob/master/assets/sparkles.svg" alt="três brilhinhos rosas piscando" />
-  </h3>
+    <img src="https://github.com/natth42/natth42/blob/master/assets/sparkles.svg" height="50" alt="três brilhinhos rosas piscando" />
+  </h1>
 </header>
 
 <main>
   <img align="left" height="520px" alt="" src="https://github.com/natth42/natth42/blob/master/assets/emptySpace.png" />
 
   <section>
-    <h4>Sobre</h4>
+    <h3>Sobre</h3>
     <p> Sou uma desenvolvedora web: gosto de fazer coisas bonitas e por isso trabalho com front-end! ✨</p>
   </section>
   
   <section>
-    <h4>Trabalho</h4>
+    <h3>Trabalho</h3>
     <p> :purple_heart: Sou desenvolvedora front-end na easynvest </p>
   </section>
   
   <section>
-    <h4>Estudos</h4>
+    <h3>Estudos</h3>
     <p> :woman_student: Formada em Sistemas de Informação </p>
     <p> 📖 Atualmente estou lendo/aprendendo sobre código limpo, animações CSS e um pouco mais sobre React (não necessariamente nessa ordem)</p>
   </section>
   
   <section>
-    <h4>Me encontre</h4>
+    <h3>Me encontre</h3>
     <p> 📫 Me encontre no email mesquita.natth@gmail.com</p>
   </section>
 
   <section>
-    <h4>Pronomes</h4>
+    <h3>Pronomes</h3>
     <p> 😄 ela | dela</p>
   </section>
 </main>
