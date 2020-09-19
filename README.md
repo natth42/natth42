@@ -2,7 +2,7 @@
   <img src="https://github.com/natth42/natth42/blob/master/assets/browser.png" alt="topo do navegador com barra de endereço escrito nathinha.dev/README.md">
   <h1 align="center">
     Nathalia Pinheiro 
-    <img src="https://github.com/natth42/natth42/blob/master/assets/sparkles.svg" height="50" alt="três brilhinhos rosas piscando" />
+    <img src="assets/sparkles.svg" height="50" alt="três brilhinhos rosas piscando" />
   </h1>
 </header>
 
