@@ -16,23 +16,23 @@
   
   <section>
     <h3>Trabalho</h3>
-    <p> :purple_heart: Sou desenvolvedora front-end na easynvest </p>
+    <p> :purple_heart:  Sou desenvolvedora front-end na easynvest </p>
   </section>
   
   <section>
     <h3>Estudos</h3>
-    <p> :woman_student: Formada em Sistemas de Informação </p>
-    <p> 📖 Atualmente estou lendo/aprendendo sobre código limpo, animações CSS e um pouco mais sobre React (não necessariamente nessa ordem)</p>
+    <p> :woman_student:  Formada em Sistemas de Informação </p>
+    <p> 📖  Atualmente estou lendo/aprendendo sobre código limpo, animações CSS e um pouco mais sobre React (não necessariamente nessa ordem)</p>
   </section>
   
   <section>
     <h3>Me encontre</h3>
-    <p> 📫 Me encontre no email mesquita.natth@gmail.com</p>
+    <p> 📫  Me encontre no email mesquita.natth@gmail.com</p>
   </section>
 
   <section>
     <h3>Pronomes</h3>
-    <p> 😄 ela | dela</p>
+    <p> 😄  ela | dela</p>
   </section>
 </main>
 
